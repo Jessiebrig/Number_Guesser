@@ -1,0 +1,14 @@
+D:\My Programs\Number_Guesser\Number_Guesser\bin\Debug\Number_Guesser.exe.config
+D:\My Programs\Number_Guesser\Number_Guesser\bin\Debug\Number_Guesser.exe.manifest
+D:\My Programs\Number_Guesser\Number_Guesser\bin\Debug\Number_Guesser.exe
+D:\My Programs\Number_Guesser\Number_Guesser\bin\Debug\Number_Guesser.pdb
+D:\My Programs\Number_Guesser\Number_Guesser\bin\Debug\AutoItX3.dll
+D:\My Programs\Number_Guesser\Number_Guesser\obj\Debug\Interop.AutoItX3Lib.dll
+D:\My Programs\Number_Guesser\Number_Guesser\obj\Debug\Number_Guesser.csproj.ResolveComReference.cache
+D:\My Programs\Number_Guesser\Number_Guesser\obj\Debug\Number_Guesser.Auto_Guesser.resources
+D:\My Programs\Number_Guesser\Number_Guesser\obj\Debug\Number_Guesser.Properties.Resources.resources
+D:\My Programs\Number_Guesser\Number_Guesser\obj\Debug\Number_Guesser.csproj.GenerateResource.cache
+D:\My Programs\Number_Guesser\Number_Guesser\obj\Debug\Number_Guesser.csproj.CoreCompileInputs.cache
+D:\My Programs\Number_Guesser\Number_Guesser\obj\Debug\Number_Guesser.exe.manifest
+D:\My Programs\Number_Guesser\Number_Guesser\obj\Debug\Number_Guesser.exe
+D:\My Programs\Number_Guesser\Number_Guesser\obj\Debug\Number_Guesser.pdb
